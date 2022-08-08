@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mojtaba Kamyabi</h1>
-<h3 align="center">A passionate Backend developer from Iran</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 - 🔭 I’m currently working on [LazyFish](https://github.com/shotgunner/LazyFish)
 - 🌱 I’m currently learning ways to refactoring legacy code and also clean and scalable architecture
