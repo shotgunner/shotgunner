@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [LazyFish](https://github.com/shotgunner/LazyFish)
 - 🌱 I’m currently learning ways to refactoring legacy code and also clean and scalable architecture
 - 👯 I’m looking to collaborate on python, docker, golang, micro-service
-- 📫 How to reach me: [telegram](https://t.me/mojtabaeuler), [twitter](https://twitter.com/shotgunner_)
+- 📫 How to reach me: [telegram](https://t.me/mojtabaeuler), [twitter](https://twitter.com/shotgunner_), [Linkedin](https://www.linkedin.com/in/mojtaba-kamyabi/)
 - ⚡ Fun fact: Piano player🎹 Martial Artist🥋 Chess 👑 
 - 📚 Telegram Channel: I shared programming resources and software engineering related resources in this channel on telegram: https://t.me/pythony
 
