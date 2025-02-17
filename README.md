@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mojtaba Kamyabi</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🔭 I’m currently working on [LazyFish](https://github.com/shotgunner/LazyFish)
+- 🔭 I’m currently working on [Backend-Interview-in-action](https://github.com/shotgunner/Backend-engineering-interview-in-action) guide mostly. a hands-on exercise like repo to prepare for interview mostly in python backend roles
 - 🌱 I’m currently learning ways to refactoring legacy code and also clean and scalable architecture
 - 👯 I’m looking to collaborate on python, docker, golang, micro-service
 - 📫 How to reach me: [telegram](https://t.me/mojtabaeuler), [twitter](https://twitter.com/shotgunner_), [Linkedin](https://www.linkedin.com/in/mojtaba-kamyabi/)
